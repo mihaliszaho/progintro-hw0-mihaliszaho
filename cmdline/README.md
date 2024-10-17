@@ -2,4 +2,5 @@
 Για το byte0 αρχικά έγραψα την εντολή tree και είδα τους υποφακέλους με τα lyrics απο το theme του ποκεμον. Χρησιμοποιώντας ένα μεγάλο cd και το TAB κουμπί συμπλήρωσα το file path μεχρι το αρχείο treasure και τέλος έγραψα cat treasure. Έτσι βρήκα τον κωδικό του πρώτου byte  <br> 
 Για το byte1 έτρεξα την εντολή. Έλεγε ότι δεν υπάρχει στο manual άλλα μου φαινόταν σαν παγίδα οπότε την έψαξα στο manual με το man command και βρήκα τον κωδικό  <br> 
 Για το byte2 ετρεξα το grep -h "will find" shakespeare.txt και αμέσως είδα στην οθόνη μερικές γραμμές όπου εμφανίζεται το will find. Μια απο αυτές είχε τον κωδικό <br>
-ΓΙα το byte3 έτρεξα diff shakespeare.txt shakespeare.modified.txt και βρήκα την λέξη programmers αντί για players
+ΓΙα το byte3 έτρεξα diff shakespeare.txt shakespeare.modified.txt και βρήκα την λέξη programmers αντί για players <br>
+Για το byte4 χρησιμοποίησα ξανά την εντολή tree. Έτσι ήταν εύκολο να βρω ακριβώς το filepath του cup.txt και με την cd να παω στο directory και να δω τα περιεχόμενα του <br>
