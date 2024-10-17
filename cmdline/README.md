@@ -5,4 +5,4 @@
 ΓΙα το byte3 έτρεξα diff shakespeare.txt shakespeare.modified.txt και βρήκα την λέξη programmers αντί για players <br>
 Για το byte4 χρησιμοποίησα ξανά την εντολή tree. Έτσι ήταν εύκολο να βρω ακριβώς το filepath του cup.txt και με την cd να παω στο directory και να δω τα περιεχόμενα του <br>
 Για το byte5 εκανα cd .. και ls μέχρι να βρω τον φάκελο tmp. Μπήκα μέσα και εφτιαξα ενα νεο directory το newfold. Μετά εκανα γυρισα στο αρχικό directory με την cd και έτρεξα cp byte5.c /tmp/newfold/ Μετά εκανα compile το αρχειο byte5.c και έτρεξα την εντολή με τις παραμέτρους που διευκρίνιζε βρίσκοντας το keyword <br>
-Για το byte6  <br>
+Για το byte6 έκανα την ίδια διαδικασία αντιγράφωντας το βυτε6.ζιπ σε εναν νεο φακελο στο tmp και μετα το εκανα extract <br>
